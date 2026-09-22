@@ -1,0 +1,6 @@
+{
+  "name": "KABADI2RECYCLE",
+  "description": "Offline-first multilingual e-waste recycling platform connecting informal scrap collectors (Kabadiwalas) with authorized recyclers.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
